@@ -6,7 +6,7 @@
 
  Repositório para compartilhar tutorial no framework R.
 
-## Apresentação
+## Motivação:
 
 Psicólogos cognitivos e educacionais têm demonstrado que ao preparar uma apresentação oral (ou mesmo um tutorial), existe um ganho na retenção da informação, quando comparado com atividades de estudo “passivas”, e.g. como a releitura do material (Roediger & Karpicke 2006; Karpicke 2017). Portanto, meu objetivo com a criação e disponibilidade de tutoriais neste repositório é fortalecer a fixação deste conteúdo, e reunir em um local “anotações” para solução de problemas do dia-dia de cientistas de dados.
 
