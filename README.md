@@ -5,6 +5,9 @@
 > **Autor:**  Carlos Biagolini-Jr.
 
  Repositório para compartilhar tutorial no framework R.
+ 
+ ## Veja repositório de Scripts R do meu curso de Bioestatística em PPG de Saúde Coletiva
+ https://github.com/biagolini/CursoEstatisticaSaudeColetiva-R
 
 ## Motivação:
 
