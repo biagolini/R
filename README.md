@@ -1,4 +1,4 @@
-# <u>TUTORIAIS R</u>
+# <u>R</u>
 
 # Repositório: tutoriaisR
 
